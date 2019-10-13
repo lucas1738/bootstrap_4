@@ -1,0 +1,4 @@
+.dropdown-menu .dropdown-item:hover{
+    background: transparent;
+    border: 1px solid white;
+}
